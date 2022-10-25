@@ -1,0 +1,12 @@
+C:\Users\דוברין\source\repos\WpfLibrary\BookLib\bin\Debug\BookLib.dll
+C:\Users\דוברין\source\repos\WpfLibrary\BookLib\bin\Debug\BookLib.pdb
+C:\Users\דוברין\source\repos\WpfLibrary\BookLib\obj\Debug\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\דוברין\source\repos\WpfLibrary\BookLib\obj\Debug\BookLib.dll
+C:\Users\דוברין\source\repos\WpfLibrary\BookLib\obj\Debug\BookLib.pdb
+C:\Users\דוברין\source\repos\WpfLibrary\BookLib\obj\Debug\BookLib.csproj.AssemblyReference.cache
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\BookLib\bin\Debug\BookLib.dll
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\BookLib\bin\Debug\BookLib.pdb
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\BookLib\obj\Debug\BookLib.csproj.AssemblyReference.cache
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\BookLib\obj\Debug\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\BookLib\obj\Debug\BookLib.dll
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\BookLib\obj\Debug\BookLib.pdb

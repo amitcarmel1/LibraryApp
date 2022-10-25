@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="WpfLibrary.UIelements.Borrow"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfLibrary.UIelements" xmlns:local1="clr-namespace:BookLib;assembly=BookLib"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+              DataContext="{Binding Source={StaticResource Locator}, Path=filterViewModel}">
+
+    <Grid x:Name="grid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="227*"></ColumnDefinition>
+            <ColumnDefinition Width="350*"></ColumnDefinition>
+            <ColumnDefinition Width="223*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="43*"></RowDefinition>
+            <RowDefinition Height="407*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Button Content="Show All" Grid.Row="1" Grid.Column="0" Height="50" Width="100" VerticalAlignment="Bottom" Margin="0,0,0,100" Command="{Binding ShowAllCommand}"/>
+        <TextBlock  Text="Your Shopping chart:" Grid.Column="2" FontSize="25" FontWeight="Bold" Grid.Row="1" HorizontalAlignment="Center" Foreground="Wheat"></TextBlock>
+        <Button Grid.Row="1" Grid.Column="2" Height="50" Width="200" Content="End Shop" VerticalAlignment="Bottom" Command="{Binding EndShopCommand}"></Button>
+        <ListView Background="Transparent" Foreground="Black" FontWeight="Bold" Grid.Row="1" FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center" x:Name="lv" ItemsSource="{Binding CurrentList, Mode=TwoWay}"  Grid.Column="1"  SelectedItem="{Binding SelectedItem}">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name"  Width="200" DisplayMemberBinding="{Binding Name}" />
+                    <GridViewColumn Header="Price" Width="100" DisplayMemberBinding="{Binding Price}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <ListView x:Name="sclv" ItemsSource="{Binding ShoppingChart}" Height="500" Width="200" Grid.Column="2" Grid.Row="1" DisplayMemberPath="Name" Background="Transparent" Foreground="White" FontSize="20" FontWeight="Bold" SelectedIndex="{Binding IndexToDelete}"></ListView>
+        
+        <Label Content="Filter by genres:" FontSize="20" Foreground="White" FontWeight="Bold" Grid.Row="1"  HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="0,50,0,0"/>
+        <ComboBox x:Name="cmbGenres" Grid.Row="1" HorizontalAlignment="Right"  VerticalAlignment="Top" Width="120" SelectedItem="{Binding SelectedCategory}" SelectedIndex="{Binding SelectedIndexCategory, Mode=TwoWay}"  Margin="0,50,0,0" />
+        <Label Content="Filter by author:" Foreground="White" FontSize="20" FontWeight="Bold" Grid.Row="1" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="0,100,0,0"/>
+        <ComboBox x:Name="cmbAuthor" Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Top" Width="120" Margin="0,100,0,0" SelectedItem="{Binding SelectedAutor}" SelectedIndex="{Binding SelectedIndexAutor, Mode=TwoWay}" ItemsSource="{Binding AutorsList}"  />
+        <Label Content="Filter by price:" Foreground="White" FontSize="20" FontWeight="Bold" Grid.Row="1" HorizontalAlignment="Left"  VerticalAlignment="Top" Margin="0,150,0,0"/>
+        <ComboBox x:Name="cmbPrice" HorizontalAlignment="Right" Grid.Row="1"  VerticalAlignment="Top" Width="120" Margin="0,150,0,0" SelectedItem="{Binding PriceCmbSelection}" SelectedIndex="{Binding SelectedIndexPrice, Mode=TwoWay}">
+            <ComboBoxItem Content="sort by low to high"></ComboBoxItem>
+        </ComboBox>
+
+
+        <Grid.Background>
+            <ImageBrush ImageSource="/Images/borrowbackground.jpg"/>
+        </Grid.Background>
+    </Grid>
+</UserControl>

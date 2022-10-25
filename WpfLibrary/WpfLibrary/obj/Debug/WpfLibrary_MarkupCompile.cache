@@ -1,0 +1,20 @@
+﻿WpfLibrary
+
+
+winexe
+C#
+.cs
+C:\Users\amitc\OneDrive\שולחן העבודה\לימודים תכנות\WpfLibrary\WpfLibrary\WpfLibrary\obj\Debug\
+WpfLibrary
+none
+false
+DEBUG;TRACE
+C:\Users\amitc\OneDrive\שולחן העבודה\לימודים תכנות\WpfLibrary\WpfLibrary\WpfLibrary\App.xaml
+151150314211
+
+26-1831945279
+1252064866576
+MainWindow.xaml;UIelements\Adding\AddBookUc.xaml;UIelements\Adding\AddItemUC.xaml;UIelements\Adding\AddJournalUc.xaml;UIelements\Borrow.xaml;UIelements\DiscountManager.xaml;UIelements\EndBorrow.xaml;UIelements\Entrence\MainRegister.xaml;UIelements\Entrence\RegisterUC.xaml;UIelements\ReportProduction.xaml;UIelements\Returns.xaml;UIelements\TopFiveUc.xaml;UIelements\Entrence\WorkerEnter.xaml;UIelements\usrFilter.xaml;UIelements\WorkerAction.xaml;
+
+False
+

@@ -1,0 +1,6 @@
+C:\Users\דוברין\source\repos\WpfLibrary\People\bin\Debug\People.dll
+C:\Users\דוברין\source\repos\WpfLibrary\People\bin\Debug\People.pdb
+C:\Users\דוברין\source\repos\WpfLibrary\People\obj\Debug\People.csproj.AssemblyReference.cache
+C:\Users\דוברין\source\repos\WpfLibrary\People\obj\Debug\People.csproj.CoreCompileInputs.cache
+C:\Users\דוברין\source\repos\WpfLibrary\People\obj\Debug\People.dll
+C:\Users\דוברין\source\repos\WpfLibrary\People\obj\Debug\People.pdb

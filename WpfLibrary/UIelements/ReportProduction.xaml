@@ -1,0 +1,44 @@
+﻿<UserControl x:Class="WpfLibrary.UIelements.ReportProduction"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfLibrary.UIelements"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             DataContext="{Binding Source={StaticResource Locator}, Path=TBViewModel }">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="47*"></RowDefinition>
+            <RowDefinition Height="51*"></RowDefinition>
+            <RowDefinition Height="352*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+
+        <TextBlock Text="From date:" FontSize="25" FontWeight="Bold" Grid.ColumnSpan="2" VerticalAlignment="Center"  ></TextBlock>
+        <TextBlock Grid.Column="1" Text="to date:" VerticalAlignment="Center"  FontSize="25" FontWeight="Bold" />
+        <TextBox x:Name="fromDate"  Text="{Binding FromDate}" VerticalAlignment="Center" HorizontalAlignment="Center"  Height="30" Width="100" />
+        <TextBox x:Name="ToDate"  Text="{Binding ToDate}" VerticalAlignment="Center"  HorizontalAlignment="Center" Grid.Column="1" Height="30"  Width="100"/>
+        <Button Content="view actions" Height="30" Click="Button_Click" Width="170" FontSize="20" FontWeight="UltraBold" Background="Tan"  Command="{Binding ViewActionsCommand}" Grid.Row="1"/>
+        <TextBlock Text="Added items:" VerticalAlignment="Top" Height="20" Width="100" Background="AntiqueWhite"  Foreground="Black"  Grid.Row="2"/>
+        
+        <TextBlock Grid.Column="2" Background="Black" Opacity="0.70" Foreground="Wheat" Height="40" FontSize="25" Text="Discount update:" FontWeight="Bold" VerticalAlignment="Top" Margin="34,11,33,0" Grid.Row="1"/>
+        <local:DiscountManager Grid.Column="2" Grid.Row="2" Loaded="DiscountManager_Loaded"></local:DiscountManager>
+        <ListView Grid.Row="2" Width="200" Height="500" ItemsSource="{Binding AddedItemList}" Background="Transparent">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Name"  Width="100" DisplayMemberBinding="{Binding Name}" />
+                    <GridViewColumn Header="Price" Width="100" DisplayMemberBinding="{Binding AddingDate}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Grid.Background>
+            <ImageBrush ImageSource="\Images\background.jpg"/>
+        </Grid.Background>
+    </Grid>
+</UserControl>

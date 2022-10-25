@@ -1,0 +1,89 @@
+﻿<Window x:Class="WpfLibrary.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfLibrary" xmlns:uielements="clr-namespace:WpfLibrary.UIelements"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+          DataContext="{Binding Source={StaticResource Locator}, Path=TBViewModel}">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="447*"/>
+            <ColumnDefinition Width="353*"/>
+        </Grid.ColumnDefinitions>
+        <TabControl x:Name="tabControl" SelectedIndex="{Binding Num, Mode=TwoWay}" Grid.ColumnSpan="2">
+            <TabItem Height="25" Width="80" Background="Transparent">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal" >
+
+                        <TextBlock Text="Register"></TextBlock>
+                    </StackPanel>
+                </TabItem.Header>
+                <uielements:MainRegister></uielements:MainRegister>
+            </TabItem>
+            <TabItem Background="Transparent" Visibility="{Binding IsVisibleForWorker}">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/Images/library-icon.png" Height="20"/>
+                        <TextBlock Text="Workers"></TextBlock>
+                    </StackPanel>
+                </TabItem.Header>
+                <uielements:WorkerAction></uielements:WorkerAction>
+            </TabItem>
+
+            <TabItem Background="Transparent" Visibility="{Binding IsVisibleForWorker}">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+
+
+                        <TextBlock Text="Add\Delete Item"></TextBlock>
+                    </StackPanel>
+                </TabItem.Header>
+                <uielements:AddItemUC></uielements:AddItemUC>
+            </TabItem>
+
+
+
+            <TabItem Background="Transparent"  Visibility="{Binding IsVisibleForCustomer}" >
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+
+                        <TextBlock Text="Borrow"></TextBlock>
+                    </StackPanel>
+                </TabItem.Header>
+                <uielements:Borrow></uielements:Borrow>
+            </TabItem>
+            <TabItem Background="Transparent"  Visibility="{Binding IsVisibleForCustomer}">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+
+
+                        <TextBlock Text="End Borrow"></TextBlock>
+                    </StackPanel>
+                </TabItem.Header>
+                <uielements:EndBorrow></uielements:EndBorrow>
+            </TabItem>
+            <TabItem  Background="Transparent" Visibility="{Binding IsVisibleForWorker}">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+
+                        <TextBlock Text="Reports"></TextBlock>
+                    </StackPanel>
+                </TabItem.Header>
+                <uielements:ReportProduction></uielements:ReportProduction>
+            </TabItem>
+            
+            
+            <TabItem Background="Transparent" Visibility="{Binding IsVisibleForCustomer}">
+                <TabItem.Header>
+                    <StackPanel Orientation="Horizontal">
+
+                        <TextBlock Text="Returnes"></TextBlock>
+                    </StackPanel>
+                </TabItem.Header>
+                <uielements:Returns></uielements:Returns>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

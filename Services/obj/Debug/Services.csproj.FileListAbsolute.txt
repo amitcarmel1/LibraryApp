@@ -1,0 +1,18 @@
+C:\Users\דוברין\source\repos\WpfLibrary\Services\bin\Debug\Services.dll
+C:\Users\דוברין\source\repos\WpfLibrary\Services\bin\Debug\Services.pdb
+C:\Users\דוברין\source\repos\WpfLibrary\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\דוברין\source\repos\WpfLibrary\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\דוברין\source\repos\WpfLibrary\Services\obj\Debug\Services.dll
+C:\Users\דוברין\source\repos\WpfLibrary\Services\obj\Debug\Services.pdb
+C:\Users\דוברין\source\repos\WpfLibrary\Services\bin\Debug\BookLib.dll
+C:\Users\דוברין\source\repos\WpfLibrary\Services\bin\Debug\BookLib.pdb
+C:\Users\דוברין\source\repos\WpfLibrary\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\Services\bin\Debug\Services.dll
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\Services\bin\Debug\Services.pdb
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\Services\bin\Debug\BookLib.dll
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\Services\bin\Debug\BookLib.pdb
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\Services\obj\Debug\Services.dll
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\Services\obj\Debug\Services.pdb

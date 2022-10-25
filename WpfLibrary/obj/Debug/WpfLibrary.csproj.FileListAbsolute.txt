@@ -1,0 +1,120 @@
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary.csproj.AssemblyReference.cache
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\MainWindow.g.cs
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\App.g.cs
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary_MarkupCompile.cache
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary_MarkupCompile.lref
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\bin\Debug\WpfLibrary.exe.config
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\bin\Debug\WpfLibrary.exe
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\bin\Debug\WpfLibrary.pdb
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\bin\Debug\CommonServiceLocator.dll
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\App.baml
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\MainWindow.baml
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary.g.resources
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary.Properties.Resources.resources
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary.csproj.GenerateResource.cache
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary.csproj.CoreCompileInputs.cache
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary.csproj.CopyComplete
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary.exe
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary.pdb
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\bin\Debug\BookLib.dll
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\bin\Debug\Services.dll
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\bin\Debug\BookLib.pdb
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\bin\Debug\Services.pdb
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\TopFiveUc.g.cs
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\TopFiveUc.baml
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Borrow.g.cs
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Borrow.baml
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Adding\AddBookUc.g.cs
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Adding\AddItemUC.g.cs
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Adding\AddJournalUc.g.cs
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Entrence\MainRegister.g.cs
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Entrence\RegisterUC.g.cs
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Entrence\WorkerEnter.g.cs
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Adding\AddBookUc.baml
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Adding\AddItemUC.baml
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Adding\AddJournalUc.baml
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Entrence\MainRegister.baml
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Entrence\RegisterUC.baml
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Entrence\WorkerEnter.baml
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\usrFilter.g.cs
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\usrFilter.baml
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\WorkerAction.g.cs
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\WorkerAction.baml
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\ReportProduction.g.cs
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\ReportProduction.baml
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\EndBorrow.g.cs
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\EndBorrow.baml
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Returns.g.cs
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Returns.baml
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\DiscountManager.g.cs
+C:\Users\דוברין\source\repos\WpfLibrary\WpfLibrary\obj\Debug\UIelements\DiscountManager.baml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\bin\Debug\WpfLibrary.exe.config
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\bin\Debug\WpfLibrary.exe
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\bin\Debug\WpfLibrary.pdb
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\bin\Debug\BookLib.dll
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\bin\Debug\CommonServiceLocator.dll
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\bin\Debug\BookLib.pdb
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary.csproj.AssemblyReference.cache
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\MainWindow.g.cs
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Adding\AddBookUc.g.cs
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Adding\AddItemUC.g.cs
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Adding\AddJournalUc.g.cs
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Borrow.g.cs
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\DiscountManager.g.cs
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\EndBorrow.g.cs
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Entrence\MainRegister.g.cs
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Entrence\RegisterUC.g.cs
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\ReportProduction.g.cs
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Returns.g.cs
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Entrence\WorkerEnter.g.cs
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\usrFilter.g.cs
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\WorkerAction.g.cs
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\App.g.cs
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary_MarkupCompile.cache
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary_MarkupCompile.lref
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\App.baml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\MainWindow.baml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Adding\AddBookUc.baml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Adding\AddItemUC.baml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Adding\AddJournalUc.baml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Borrow.baml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\DiscountManager.baml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\EndBorrow.baml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Entrence\MainRegister.baml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Entrence\RegisterUC.baml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\ReportProduction.baml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Returns.baml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\Entrence\WorkerEnter.baml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\usrFilter.baml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\UIelements\WorkerAction.baml
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary.g.resources
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary.Properties.Resources.resources
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary.csproj.GenerateResource.cache
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary.csproj.CoreCompileInputs.cache
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary.csproj.CopyComplete
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary.exe
+C:\Users\amitc\OneDrive\שולחן העבודה\‏‏תיקיה חדשה\WpfLibrary\WpfLibrary\obj\Debug\WpfLibrary.pdb
